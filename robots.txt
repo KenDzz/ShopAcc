@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /Controller/
+Disallow: /css/
+Disallow: /facebook/
+Disallow: /img/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /module/
+Disallow: /view/
+
+Allow: /
+Allow: /nick-lien-minh
